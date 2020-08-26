@@ -1,0 +1,7 @@
+C:\Users\Gergo\Desktop\perprog_last_chance\perprog_last_chance\bin\Debug\perprog_last_chance.exe.config
+C:\Users\Gergo\Desktop\perprog_last_chance\perprog_last_chance\bin\Debug\perprog_last_chance.exe
+C:\Users\Gergo\Desktop\perprog_last_chance\perprog_last_chance\bin\Debug\perprog_last_chance.pdb
+C:\Users\Gergo\Desktop\perprog_last_chance\perprog_last_chance\obj\Debug\perprog_last_chance.csprojAssemblyReference.cache
+C:\Users\Gergo\Desktop\perprog_last_chance\perprog_last_chance\obj\Debug\perprog_last_chance.csproj.CoreCompileInputs.cache
+C:\Users\Gergo\Desktop\perprog_last_chance\perprog_last_chance\obj\Debug\perprog_last_chance.exe
+C:\Users\Gergo\Desktop\perprog_last_chance\perprog_last_chance\obj\Debug\perprog_last_chance.pdb
